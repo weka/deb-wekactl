@@ -6,16 +6,16 @@ Version: 1.0
 Architectures: all
 Components: weka
 Description: Packages containing CLI and related functionality for WEKA clusters.
-Date: Tue, 07 Jul 2026 01:18:19 +0000
+Date: Tue, 07 Jul 2026 06:02:37 +0000
 MD5Sum:
- 1d958a1bc7c631a044ed26a82ac1a5a4 495 weka/binary-all/Packages.gz
- b13a3ed3c8fcc71d2351fab2168ba32f 976 weka/binary-all/Packages
- 09bacb9eff4793fdcc2399d13033aa64 572 weka/binary-all/Packages.bz2
+ 68a7821a543e43bf75fc461a255f7067 495 weka/binary-all/Packages.gz
+ c0173ae32c1369fd3486f109690200cb 976 weka/binary-all/Packages
+ 1067876cb446c8e0c9cd05bbe390f692 573 weka/binary-all/Packages.bz2
 SHA1:
- 51b88b65525a334f7bac81c9c5129442673974f2 495 weka/binary-all/Packages.gz
- 7287b3d403584e582d982ad6bc148f9fd22cfef0 976 weka/binary-all/Packages
- bc4edb17d0cf498ff4b2b6529512a63e8c4af867 572 weka/binary-all/Packages.bz2
+ 6feb4e53f34bc399294043105fc25b67e50424d2 495 weka/binary-all/Packages.gz
+ 3717e0a0aa7eef597cc92c88ec11d5598332449d 976 weka/binary-all/Packages
+ 63e1b12d5a8f75c67e6f40d5e2013d8f9af212c3 573 weka/binary-all/Packages.bz2
 SHA256:
- bf53638a7c5cbef12512db06732bed01a75afac70da23392cb9e3e9b0b58d374 495 weka/binary-all/Packages.gz
- 4b007dd338f43bea93d29c02dc5b4c8b79b5d85067e6c4a8543cf771030b9b8a 976 weka/binary-all/Packages
- 563397c69025ce6514c16fd4b5fdee52e1e2049a80783fdea651f0c53c30b949 572 weka/binary-all/Packages.bz2
+ b038716e69110743560b6d150eca69bce6f6bb77df5f1cf5a001da59180f73e1 495 weka/binary-all/Packages.gz
+ 8acdee689d8ac9d9ecc0bcbe8e135a68e857e7c8641c5c7da51313748f5e3271 976 weka/binary-all/Packages
+ 3f5e153466e8756982bdc0f41dce29dc3d20aeead019bc840f96d51b09a32322 573 weka/binary-all/Packages.bz2
