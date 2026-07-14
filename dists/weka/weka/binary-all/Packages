@@ -1,29 +1,29 @@
 Package: wekactl
-Version: 1.0.5
-Architecture: arm64
-Maintainer: WEKA <info@weka.io>
-Installed-Size: 39649
-Filename: pool/weka/wekactl_1.0.5_arm64.deb
-Size: 13869794
-MD5sum: 76216404ca957b1681a807d9b0e8016f
-SHA1: fc603bd2e38e9e75da24f9172f362aab0ddbbb99
-SHA256: d613535765ba1ebb91501e4132795d40754fad82861f073466274206836acbf6
-Priority: optional
-Homepage: https://weka.io/
-Description: Command line tools for administering and supporting WEKA clusters and filesystems.
-
-Package: wekactl
-Version: 1.0.5
+Version: 1.0.6
 Architecture: amd64
 Maintainer: WEKA <info@weka.io>
-Installed-Size: 42833
-Filename: pool/weka/wekactl_1.0.5_amd64.deb
-Size: 15186718
-MD5sum: 3a20dea8b2f08b7d39cbb21dcc7b71f3
-SHA1: 349c44dfe5843458f98cf0acdb7ecdd3d32dac26
-SHA256: 87f68da2b1c2ffa84d4f09178d45cd8c41554258138348497fd933e7a2b0d931
+Installed-Size: 42921
+Filename: pool/weka/wekactl_1.0.6_amd64.deb
+Size: 15220270
+MD5sum: 79076eaf01130063c9edeb51962c4ec9
+SHA1: 747e42fe0533f915d0090507ec4737c1b62c9ab4
+SHA256: 84041bde8e09ea7a19136c6b6e977b5434b4d31c7d1a887eeb3c1e75a9b904b9
 Priority: optional
 Homepage: https://weka.io/
 Description: Command line tools for administering and supporting WEKA clusters and filesystems.
 Architecture-Variant: amd64v1
+
+Package: wekactl
+Version: 1.0.6
+Architecture: arm64
+Maintainer: WEKA <info@weka.io>
+Installed-Size: 39649
+Filename: pool/weka/wekactl_1.0.6_arm64.deb
+Size: 13898690
+MD5sum: 1c9a66353f3616964d172acb48ecf199
+SHA1: 0c313977b63181f680517a68e692d5c9677e9e76
+SHA256: 979304307e0b4dbdbc250a6f0eeaff139ccc855c3a40bee1280a9707b66120bd
+Priority: optional
+Homepage: https://weka.io/
+Description: Command line tools for administering and supporting WEKA clusters and filesystems.
 
