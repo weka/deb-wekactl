@@ -9,32 +9,32 @@ Version: 1.0
 Architectures: all
 Components: weka
 Description: Packages containing CLI and related functionality for WEKA clusters.
-Date: Wed, 22 Jul 2026 03:47:19 +0000
+Date: Fri, 24 Jul 2026 01:02:50 +0000
 MD5Sum:
- 9766dd710847a9d2c45b455dc748fea0 972 weka/binary-all/Packages
- 18cdd1bdabd9911056e55621f13dd1c2 575 weka/binary-all/Packages.bz2
- a20ff75e83a3f825e92f42e5a79d1081 493 weka/binary-all/Packages.gz
+ 629ea9eea205509566a3db0636a5b34e 972 weka/binary-all/Packages
+ 37a15c3d9807b7dfc1ea399aa8f1ccd2 568 weka/binary-all/Packages.bz2
+ c6c92ae981bdaa259d775f90df0d9c47 493 weka/binary-all/Packages.gz
 SHA1:
- e47edc46fcaebef76ef758f451c67dee5a2e8e9b 972 weka/binary-all/Packages
- 670e116128e4c98e1d2cbdbf10a1c7ec7e27f6f0 575 weka/binary-all/Packages.bz2
- ae9b9b09eabd62d51975326087ccdd62d6dc0f2a 493 weka/binary-all/Packages.gz
+ db9591e9620f1c2d566d28dbc7a732df56921fc7 972 weka/binary-all/Packages
+ d3dea607e42e54d0e15b1f400a5f171d19c536fc 568 weka/binary-all/Packages.bz2
+ 8d077ebe531c863eeb096fc883e68f217408fabe 493 weka/binary-all/Packages.gz
 SHA256:
- 4be6cbadb4883795815c24c26d21504e247b68b83da4f350e9b06a1c0f8149c4 972 weka/binary-all/Packages
- 54cb7cb19edbdd61db8eb50c43b097e3d728341790adc36c865a7a33232b9918 575 weka/binary-all/Packages.bz2
- c6a86a3351e936d0b0085bd6f881bbc228356bd9aab3f895e2532959634d7ce1 493 weka/binary-all/Packages.gz
+ 9b4353734ffcba73e69448d239bf98d093ae29584977cf6f8c54ecbafb15e3e0 972 weka/binary-all/Packages
+ 7fbe381fbc47dad863de05ff94d47c34ac3fcf804f6d61ca146933cdee40b34b 568 weka/binary-all/Packages.bz2
+ b6e9e35d62338ef7304fa0d064c0121f4fb2aa0a6f24ac62e3075eec2eeec2de 493 weka/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEXlXM5aza7OvA9kWmqceN3rVRPrUFAmpgPUgACgkQqceN3rVR
-PrVFwg/+P2iCX85uRogsyxonk4EP2PQ1Z2Qmod+lXsde5r6xVjj+2I5k0t1l1FqJ
-2+A5FiPs7xGwgnt9PZW5M5nIvTM1zydkJRupWw+/MQU3smjZ2NxhH1bU5/tPh9TB
-iiueQM4JhCU2CL778b567xanWCw0p0Y5Crwe93KSwfPsLbMAg8qJTx7W/0T4KkXy
-EhxUK+64QZbcc9LNxuxba+Z+bBoIXKUgvVAsugj+n1uzh3S9R13D1DGGtK5VLshF
-5thpfbujwUzk22njzrtXLrBv97itgYPw/8m9yOczvjrqhh0ROi3Yidl1pAYG/1Ab
-BCSJpfqjGFqW/9gKH7E7XRRMbxvYJzh4RzmJ4MC2T4qZsutmQyV9r0i+QkAoejYU
-7jFs56lPnRtmAzunk+4aIM+X+vReDSYJ1nmyld0inBu6ydAGIeZiej/R+8ha/SM9
-kMq53Hg+cWLVCTTiQr5YUkCvX7UVAQkWSqyoKB7H/p7gSp6W/eHzd/rW09SUehmh
-RG/FjJEySRXltToc4u1xGwHdDFk0I3STf24l7+KdNv2liwe7O+zzQRHYaj4Zx+ov
-AZ1g+fAg5hq5HcnZF2WtLpqXhqm2CddwILDUOJXrTzAV+TlHUdFZkYY7o1kATKd+
-Fs9YPL7p21ltQ9Wm/Qia8z+l40cWexCkmgDbyMb+a0bW+nhzHo4=
-=t+gX
+iQIzBAEBCgAdFiEEXlXM5aza7OvA9kWmqceN3rVRPrUFAmpiubsACgkQqceN3rVR
+PrUNlxAAsT1HaeMxVN9hUZvntS6wwHN5KYtbFoo9p+YUTtFZ1SZvrTTMGeqUvJPq
+NL2Mkpppdz2GgCfYPMuAbCMGhcx0p03hXCuc2nEUOBIyhru5HAEIDAXzoKImqDXH
+auw3hP4fm4hz+ZeiRZurmiUpc125JRnRtsqlhp6O2qpjr6QfvVbSabF/i4QXVrqj
+S//pMjNkzFa7fFqTZEPd8ThoXkBl/WdCerLM1yYonGG1sXFHz+odxeFDY4IisZxc
+LREXsTwpfO/0cLnv/D9N8m0WWf5YC5VbfII/GcCe4q21gn3St15Z5uQx+st3Wqjt
+tNf7f2vkBUew5T2GSrwlBci4aPgaTlC0j+FEYB/w7TamGm7FRzHmu0YwLEGK7+nR
+umx0+3V2aOIfED5KsSV1/fNkhpi3MGshgLIavU57OJGTg9zchrahTloQmK2MJ3ra
+LBMoj4Q/H+bTs2h75OM8BI/BMPIrhSurPm1xfcFZ4ZbOZ70bBsTixiWAYUoleZyV
+AkMjfXrmS0TDuqC7eCt/YEWARDv/1mGIPTU0dMQtjZTKHY3pRBUZ5YZZzmouV/ik
+z3jpyxsbBlA3jJOqEcUh4tVeryHCV3agFDfksEOgvsB8H1yBCBdbV+BUi/WEU13F
+rsnYH/Z1KnY2AW2vuPJ+Eueb0AUW/wFaneB8nCqrNjMxL3RAtrg=
+=iDIA
 -----END PGP SIGNATURE-----
