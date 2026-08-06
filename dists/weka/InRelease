@@ -9,32 +9,32 @@ Version: 1.0
 Architectures: all
 Components: weka
 Description: Packages containing CLI and related functionality for WEKA clusters.
-Date: Wed, 05 Aug 2026 06:15:37 +0000
+Date: Thu, 06 Aug 2026 00:40:17 +0000
 MD5Sum:
- b5fc73ecc454d6cbddf0cd7ae10f7908 972 weka/binary-all/Packages
- c39a80900b93ad563e641d5ba82370df 563 weka/binary-all/Packages.bz2
- ce69fd990f7106b52cb695a374d7cc0e 489 weka/binary-all/Packages.gz
+ c578bdd380d4cf8c98bb891960d1075b 972 weka/binary-all/Packages
+ 625afa2ac29829b9c9211842a7fc8e64 568 weka/binary-all/Packages.bz2
+ 6dd1caeea6f7bd0f8182d8856bbcba37 492 weka/binary-all/Packages.gz
 SHA1:
- 5ab6eed357cadba151f559ea75d8bbbd988dd452 972 weka/binary-all/Packages
- ec1b13ee5dccbad1c31118b69c22992640baa979 563 weka/binary-all/Packages.bz2
- 2a1b4977bdacaa617b0cdf2d4897ceed66294617 489 weka/binary-all/Packages.gz
+ 01c57f53b0f9e399bfc9dc840c39441b5aac715f 972 weka/binary-all/Packages
+ 7d18679c9a780795076fe13288b221b90d00d1f4 568 weka/binary-all/Packages.bz2
+ 9cc526b34d43b70cf6fdf9ebbcd2856c1a1221dd 492 weka/binary-all/Packages.gz
 SHA256:
- 6f6ac678acf0f35f8454048a14a12d9f96c0b65aa18f40079a9a17d547df57ac 972 weka/binary-all/Packages
- 5ca631df04ee96c8eb153dda1d468c698b61d6edb9a8f32d5f4b3a21c7e7a371 563 weka/binary-all/Packages.bz2
- 210690783eb98bfbaf2ab019a2ecb1dd6b2f8b786785d6c903dcc2bbc1ccbf3d 489 weka/binary-all/Packages.gz
+ 927ff7d379417ad1809909adc6c2896a5441aa2c75be88f738e9d62d2310c460 972 weka/binary-all/Packages
+ 55d32a24c53e3b85c0fa54d29d11492d27737303ba0a28735b27e4190aaf6581 568 weka/binary-all/Packages.bz2
+ 1f6d7b472ec00ec9f0cfec21d4649230a4f4c27275c08b098a9b21640c729bb1 492 weka/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEXlXM5aza7OvA9kWmqceN3rVRPrUFAmpy1QoACgkQqceN3rVR
-PrXV8BAAgrOcJxqwaUeoGQ03TtFNUw8OxNkgcvsM9iVUwhu4SWCVNl96j9VwjxVi
-V95qnkqSwCaaaI0NfvEKnchJQWjUnfGgld8e6XL4xXTs+K6jxIErbTLttY/KGmpS
-XpO/SAa9B3qV4a+9RQdvB31kDPKbwCoHfAMnhSo/4DrNT0KBMrH96LK3jW6En/LC
-D7PKve6kwuca7EwChxR+UUAgusmiDlxsu3MaeU9MYxL8IhupuCbZVwiY9B1HcSQl
-QErq4XvUgoOGqCV9bNi8jn2FrUEbIn2PpcBkCbit10JXS/9aqS70AsQRjDQ94kAw
-GTjkoR82YglMZmQid+7+E6QW/hnlheL+UHmH+ijgUFuVTUiQKWxsTag1+fP7qmjg
-8c3Et33EuwBUJiKeVVkmjMJm26p0+/rBBaOKzRGLRg7Pq1HlfaZPOv6j3orUIArQ
-/gmujrahlV3/BZ1NaKgjIuoreA4RhUx1WV6UFHAZDDmBm6zPX3v5X7a/tnHrN+a4
-rCDRHqvWeWW8zY+jKtUq1XpdN9JYQ5aRjdrb29cZMC8YVTrZAGQZsElioSc0wLtN
-22FaXU/zblvoE0DJ4bNQww88/23jlOMWQukiC+4GlfE7jphFC1eqWlyosmmODCml
-WVD+XIAhqmB3JJUdxBp9HKq38OSeVt7NSi+bWSjJUl1mGwEF768=
-=wdfr
+iQIzBAEBCgAdFiEEXlXM5aza7OvA9kWmqceN3rVRPrUFAmpz1/IACgkQqceN3rVR
+PrUm5g/+M79cjWb2bl8WlsFD2tgm+Df4XkC8Bicq9QLF8IrrGPv6dM636P7Jakj1
+cIh+D1Xh805gBZZxb9lo1YbsmnUwD9Mv+Ud39PJlXCy4cnOzNM3QqQQ/cibrEh0d
+i2Oc5wrrofAZNG7+2VTT2r4D4TOLwEQSTotUVzgxO7aB+MXpAaqg9f3kyHD+FfYm
+M9MdJcGEgpAE8/keg/dZCOrhSdvyuBIdfvUC0FsuZ3SvKngIzRy7Jy/uh7YNZ+Xn
+4nfImihWEGGXhKEfKkCscs1F+ko74FSjOt98Ryrw9wrM9oV9mudDLFFgruZ+2qjX
+FArsaqzFVe0wPPalU8qKWIs5dAJSI7piH8VrXuoPC+OOQbeeYJPYLzzkt6P/YDpV
+5m1zmEBNqG4t16UbP31gtGMkWO7AHiHETKQWzoqf4+spCwX0NhT+Vnd2IcsKKi0J
+m9nUHiPLsPOviCBqhrjwrkmsaa229skXtAgSuIg4rn5dOIw5B60NSmj7ud5dYA9z
+uMSxZKdSqp4v//n92u4+gowhwyEI7uFREjxUHLsMaImoA3/qCD9TRSmP2RMSlGBb
+9ua6MNtKAJt87X3z1SYvy+eEs072qCJUS1peOIxjqe9EBL2+MHw04dVg5xERuCfB
+VVC7Lxzy3Dhmgjt6HzHqtJGweLgp/wLm0oA1e2EiWcyIfONASZk=
+=dwJO
 -----END PGP SIGNATURE-----
